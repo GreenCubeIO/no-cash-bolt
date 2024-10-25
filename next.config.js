@@ -1,10 +1,7 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  images: { unoptimized: true },
+  // Remove or comment out the output: 'export' line
+  // output: 'export',
+  // Other configurations...
 };
 
 module.exports = nextConfig;
