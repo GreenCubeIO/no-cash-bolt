@@ -21,3 +21,6 @@ export function ProductGrid({ products, selectedCategory }: ProductGridProps) {
     </div>
   );
 }
+
+
+
